@@ -1,0 +1,102 @@
+li {
+display: inline;
+}
+
+ul {
+text-align: center;
+font-size: 90%;
+    
+}
+header {
+background-color: #FFFFFF;
+font-size: 200%;
+word-spacing: 110px;
+font-family: 'GrandHotelRegular';
+}
+
+footer {
+background-color: #FFFFFF;
+word-spacing: 30px;  
+color: #000000;
+font-size: 120%;
+}
+
+img.logo {
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+/* unvisited link */
+a:link {
+    color: #878787;
+}
+
+/* visited link */
+a:visited {
+    color: #878787;
+}
+
+/* mouse over link */
+a:hover {
+    color: #000000;
+}
+
+/* selected link */
+a:active {
+    color: #000000;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+iframe {
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+h1 {
+text-align: center;
+color: #000000;
+}
+
+h2 {
+color: #878787;
+
+}
+
+p {color: #000000;}
+
+table {
+margin-left: auto;
+margin-right: auto;
+display: block;
+background-color: #FFFFFF;
+}
+
+span {
+color: #ff001d;
+font-family: cursive;
+font-size: 130%;
+font-weight: bold;
+}
+td {
+text-align: left;
+}
+section {
+background-color: #FF001D;
+}
